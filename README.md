@@ -1,4 +1,4 @@
-# 💀🟢 Bone Appétit Mart™ // BONE_OS_v6.6.6
+# Bone Appétit Mart™ // BONE_OS_v6.6.6
 
 > **A Cyberpunk Anatomy Department Store & Autonomous Chaos Terminal**  
 > Browse live clothing collections from [SNITCH India](https://www.snitch.co.in) by targeting body parts on a live interactive skeleton specimen while simulated system breaches and chaos anomalies erupt around you.
@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Quickstart
+## Quickstart
 
 ```bash
 # Clone and install dependencies
@@ -30,7 +30,7 @@ npm run preview
 
 ---
 
-## 🖥️ What is Bone Appétit Mart?
+## What is Bone Appétit Mart?
 
 **Bone Appétit Mart™** is an experimental e-commerce web application that marries an interactive anatomy specimen with a live Indian menswear catalog, wrapped in a 90s phosphor-green cyberpunk terminal aesthetic.
 
@@ -66,7 +66,7 @@ Instead of generic category dropdowns, users interact with a custom SVG anatomic
 
 ---
 
-## 🗂️ Project Architecture
+## Project Architecture
 
 ```
 skeleton/
@@ -84,12 +84,12 @@ skeleton/
 
 ---
 
-## 📖 In-Depth Documentation
+## In-Depth Documentation
 
 For detailed architectural diagrams, component mechanics, CSS custom property references, and API pipelines, consult [documentation.md](file:///c:/Users/arpit/OneDrive/Desktop/skeleton/documentation.md).
 
 ---
 
-## 🛡️ License & Disclaimer
+## License & Disclaimer
 
 This project is created for demonstration and portfolio purposes. Product information and imagery belong to **SNITCH**. No payment processing or credential harvesting is performed.
